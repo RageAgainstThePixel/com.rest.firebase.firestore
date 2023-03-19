@@ -1,10 +1,10 @@
 {
-    "name": "ProjectScope.ProjectName.Tests",
-    "rootNamespace": "ProjectScope.ProjectName.Tests",
+    "name": "Firebase.Firestore.Tests",
+    "rootNamespace": "Firebase.Firestore.Tests",
     "references": [
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner",
-        "ProjectScope.ProjectName"
+        "Firebase.Firestore"
     ],
     "includePlatforms": [
         "Editor"
