@@ -1,6 +1,6 @@
 {
-    "name": "ProjectScope.ProjectName",
-    "rootNamespace": "ProjectScope.ProjectName",
+    "name": "Firebase.Firestore",
+    "rootNamespace": "Firebase.Firestore",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

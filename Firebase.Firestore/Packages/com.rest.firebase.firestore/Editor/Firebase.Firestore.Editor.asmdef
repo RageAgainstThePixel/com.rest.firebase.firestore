@@ -1,8 +1,8 @@
 {
-    "name": "ProjectScope.ProjectName.Editor",
-    "rootNamespace": "ProjectScope.ProjectName.Editor",
+    "name": "Firebase.Firestore.Editor",
+    "rootNamespace": "Firebase.Firestore.Editor",
     "references": [
-        "ProjectScope.ProjectName"
+        "Firebase.Firestore"
     ],
     "includePlatforms": [
         "Editor"

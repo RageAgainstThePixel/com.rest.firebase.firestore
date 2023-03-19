@@ -1,0 +1,25 @@
+{
+  "name": "com.rest.firebase.firestore",
+  "displayName": "Firebase.Firestore",
+  "description": "A non-official Firebase RESTful Firestore client.",
+  "keywords": [],
+  "version": "1.0.0-preview.1",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/StephenHodgson/com.rest.firebase.firestore#documentation",
+  "changelogUrl": "https://github.com/StephenHodgson/com.rest.firebase.firestore/releases",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "repository": "https://github.com/StephenHodgson/com.rest.firebase.firestore.git"
+  },
+  "author": {
+    "name": "Stephen Hodgson",
+    "url": "https://github.com/StephenHodgson"
+  },
+  "dependencies": {
+    "com.rest.firebase.authentication": "2.1.1"
+  },
+  "publishConfig": {
+    "registry": "https://package.openupm.com"
+  }
+}
